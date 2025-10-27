@@ -1,7 +1,5 @@
 #  Selfie – Your AI. Your Asset. Your Future.
 
-> 🌐 From RWA to VWA: The Next Evolution of Ownership
-
 Selfie empowers individuals to create, own, and monetize intelligent , evolving digital assets called **Selfies**. In the native economy, these Virtual World Assets (VWA) represent the future of digital identity and value.
 
 ---
